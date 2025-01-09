@@ -30,6 +30,11 @@ To remove the task and deschedule it just long press on the added task, it will 
 <img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Goal%20in%20Flatlist.jpeg" alt="Goal in Flatlist" width="300" height="600">
 - Goal Schedule Notification
 <img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Schedule%20Notification.jpeg" alt="Schedule Notification" width="300" height="600">
+- Calendar Preview
+<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/In%20Calendar%20View.png" alt="In Calendar View" width="300" height="600">
+- Descedule Task
+<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Deschdule%20Notification.jpeg" alt="Deschedule Notification" width="300" height="600">
+
 
 
 
