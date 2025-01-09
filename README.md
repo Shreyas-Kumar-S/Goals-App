@@ -20,4 +20,4 @@ To remove the task and deschedule it just long press on the added task, it will 
 - java Amazon Corretto Java-11
 
 # Sample - Images
-![Deschdule Notification](https://github.com/user-attachments/assets/d5225d22-be10-4705-9889-76e35874bbdb)
+<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Deschdule%20Notification.jpeg" alt="App Preview" width="500" height="600">
