@@ -17,4 +17,7 @@ To remove the task and deschedule it just long press on the added task, it will 
 - npm v10.2.4
 - node v20.11.0
 - expo v6.3.10
-- java Amazon Corretto Java-11 
+- java Amazon Corretto Java-11
+
+# Sample - Images
+![Deschdule Notification](https://github.com/user-attachments/assets/d5225d22-be10-4705-9889-76e35874bbdb)
