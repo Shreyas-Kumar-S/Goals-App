@@ -22,4 +22,14 @@ To remove the task and deschedule it just long press on the added task, it will 
 # Sample - Images
 - Landing Page
 <img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Intro%20Page.jpeg" alt="Landing Screeb" width="300" height="600">
+- Goals Page
+<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Goal%20Adding%20Page.jpeg" alt="Goal Adding Page" width="300" height="600">
+- Goal Schedule
+<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Goal%20Schedule.jpeg" alt="Goal Schedule" width="300" height="600">
+- Goal in List
+<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Goal%20in%20Flatlist.jpeg" alt="Goal in Flatlist" width="300" height="600">
+- Goal Schedule Notification
+<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Schedule%20Notification.jpeg" alt="Schedule Notification" width="300" height="600">
+
+
 
