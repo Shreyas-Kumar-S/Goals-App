@@ -19,21 +19,12 @@ To remove the task and deschedule it just long press on the added task, it will 
 - expo v6.3.10
 - java Amazon Corretto Java-11
 
-# Sample - Images
-- Landing Page
-<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Intro%20Page.jpeg" alt="Landing Screeb" width="300" height="600">
-- Goals Page
-<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Goal%20Adding%20Page.jpeg" alt="Goal Adding Page" width="300" height="600">
-- Goal Schedule
-<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Goal%20Schedule.jpeg" alt="Goal Schedule" width="300" height="600">
-- Goal in List
-<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Goal%20in%20Flatlist.jpeg" alt="Goal in Flatlist" width="300" height="600">
-- Goal Schedule Notification
-<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Schedule%20Notification.jpeg" alt="Schedule Notification" width="300" height="600">
-- Calendar Preview
-<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/In%20Calendar%20View.png" alt="In Calendar View" width="300" height="600">
-- Descedule Task
-<img src="https://github.com/Shreyas-Kumar-S/Goals-App/blob/main/Preview%20Goals%20App/Deschdule%20Notification.jpeg" alt="Deschedule Notification" width="300" height="600">
+# Sample - Video:
+
+
+https://github.com/user-attachments/assets/3f778942-0f72-4f65-9cf4-efeacf338ebf
+
+
 
 
 
